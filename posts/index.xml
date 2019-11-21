@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Rey Farhan</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Rey Farhan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright 2019 Rey Farhan</copyright>
+    <lastBuildDate>Thu, 21 Nov 2019 13:20:57 +0100</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>/posts/001-first-post/</link>
+      <pubDate>Thu, 21 Nov 2019 13:20:57 +0100</pubDate>
+      
+      <guid>/posts/001-first-post/</guid>
+      <description>Thanks for visiting my site. More content coming soon.</description>
+    </item>
+    
+  </channel>
+</rss>
