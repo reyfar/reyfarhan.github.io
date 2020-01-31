@@ -5,8 +5,8 @@
     <link>http://reyfarhan.com/</link>
     <description>Recent content on Rey Farhan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright 2019 Rey Farhan</copyright>
-    <lastBuildDate>Thu, 21 Nov 2019 13:20:57 +0100</lastBuildDate>
+    <copyright>Copyright 2020 Rey Farhan</copyright>
+    <lastBuildDate>Thu, 30 Jan 2020 13:20:57 +0100</lastBuildDate>
     
 	<atom:link href="http://reyfarhan.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,20 +14,22 @@
     <item>
       <title>Hello World</title>
       <link>http://reyfarhan.com/posts/001-first-post/</link>
-      <pubDate>Thu, 21 Nov 2019 13:20:57 +0100</pubDate>
+      <pubDate>Thu, 30 Jan 2020 13:20:57 +0100</pubDate>
       
       <guid>http://reyfarhan.com/posts/001-first-post/</guid>
       <description>Thanks for visiting my site. More content coming soon.</description>
     </item>
     
     <item>
-      <title>About</title>
+      <title>About Me</title>
       <link>http://reyfarhan.com/about/</link>
-      <pubDate>Thu, 21 Nov 2019 12:50:04 +0100</pubDate>
+      <pubDate>Thu, 30 Jan 2020 12:50:04 +0100</pubDate>
       
       <guid>http://reyfarhan.com/about/</guid>
-      <description>I&amp;rsquo;m a Data Science lead, currently based in Berlin. Projects I’ve been involved in cover the full range of data science areas, including machine learning (or &amp;ldquo;AI&amp;rdquo; as it is fashionably known), product analytics, business intelligence, data engineering and so on. I’ve worked across numerous sectors and for companies ranging from high-growth startups to global corporates. You can find further details on LinkedIn.
-I&amp;rsquo;m particularly interested in product optimisation strategies and decision-making using data, as well as novel applications of machine learning.</description>
+      <description>This blog covers personal projects, work-related learnings and other random interests I&amp;rsquo;ve felt compelled to write about.
+I live in Berlin and work as a Data Science consultant, with experience ranging across industries and problem spaces. You can find further details on my LinkedIn profile.
+I&amp;rsquo;m also involved in these projects:
+ A GIVEN B which is a collaborative initiative to bridge the gap between data science and designers to improve how we work together.</description>
     </item>
     
   </channel>

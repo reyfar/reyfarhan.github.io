@@ -5,8 +5,8 @@
     <link>http://reyfarhan.com/posts/</link>
     <description>Recent content in Posts on Rey Farhan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright 2019 Rey Farhan</copyright>
-    <lastBuildDate>Thu, 21 Nov 2019 13:20:57 +0100</lastBuildDate>
+    <copyright>Copyright 2020 Rey Farhan</copyright>
+    <lastBuildDate>Thu, 30 Jan 2020 13:20:57 +0100</lastBuildDate>
     
 	<atom:link href="http://reyfarhan.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Hello World</title>
       <link>http://reyfarhan.com/posts/001-first-post/</link>
-      <pubDate>Thu, 21 Nov 2019 13:20:57 +0100</pubDate>
+      <pubDate>Thu, 30 Jan 2020 13:20:57 +0100</pubDate>
       
       <guid>http://reyfarhan.com/posts/001-first-post/</guid>
       <description>Thanks for visiting my site. More content coming soon.</description>
