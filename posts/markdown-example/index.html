@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
+		
+
+		<title>An Exercise In Creating A Markdown Example: The Good, The Bad &amp; The Exceedingly Ugly</title>
+
+		
+		<link rel="stylesheet" href="http://reyfarhan.com/css/colors-light.min.13cdb1b0d747eecaceb86881c06366b4565052e87d75cb9b8cf86ba4204b5e70.css">
+
+		
+	</head>
+	<body>
+		<header id="header">
+			<h1><a href="http://reyfarhan.com/">Rey Farhan</a></h1>
+			<p></p>
+		</header>
+
+		<div id="page">
+			<div id="sidebar">
+				<nav>
+	
+		<ul class="nav">
+			
+				<li><a href="/about/"><span>About Me</span></a></li>
+			
+				<li><a href="https://www.linkedin.com/in/reyfarhan/"><span>LinkedIn</span></a></li>
+			
+				<li><a href="https://twitter.com/rey__f"><span>Twitter</span></a></li>
+			
+		</ul>
+	
+		<ul class="nav">
+			
+				<li><a href="https://agivenb.com/"><span>A|B</span></a></li>
+			
+				<li><a href="https://google.com/"><span>TBC</span></a></li>
+			
+		</ul>
+	
+</nav>
+
+			</div>
+
+			<div id="content">
+				
+	<article class="post">
+		<h1><a href="http://reyfarhan.com/posts/markdown-example/">An Exercise In Creating A Markdown Example: The Good, The Bad &amp; The Exceedingly Ugly</a> (Draft)</h1>
+
+		<div class="post-content">
+
+<p>Welcome to this Markdown example, where I try to figure if this is the right template for me. I&rsquo;m having second doubts since the format is kind of strange on a large monitor. But it&rsquo;s not so bad on a smaller one. Plus tables don&rsquo;t seem to be styled at all, which is something I&rsquo;ll have to fix myself somehow&hellip;</p>
+
+<p>Paragraphs are separated by a blank line.</p>
+
+<p>2nd paragraph. <em>Italic</em>, <strong>bold</strong>, and <code>monospace</code>. Itemized lists
+look like:</p>
+
+<ul>
+<li>this one</li>
+<li>that one</li>
+<li>the other one</li>
+</ul>
+
+<p>Note that &mdash; not considering the asterisk &mdash; the actual text
+content starts at 4-columns in.</p>
+
+<blockquote>
+<p>Block quotes are
+written like so.</p>
+
+<p>They can span multiple paragraphs,
+if you like.</p>
+</blockquote>
+
+<p>Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., &ldquo;it&rsquo;s all
+in chapters 12&ndash;14&rdquo;). Three dots &hellip; will be converted to an ellipsis.
+Unicode is supported. ☺</p>
+
+<h2 id="an-h2-header">An h2 header</h2>
+
+<p>Here&rsquo;s a numbered list:</p>
+
+<ol>
+<li>first item</li>
+<li>second item</li>
+<li>third item</li>
+</ol>
+
+<p>Note again how the actual text starts at 4 columns in (4 characters
+from the left side). Here&rsquo;s a code sample:</p>
+
+<pre><code># Let me re-iterate ...
+for i in 1 .. 10 { do-something(i) }
+</code></pre>
+
+<p>As you probably guessed, indented 4 spaces. By the way, instead of
+indenting the block, you can use delimited blocks, if you like:</p>
+
+<pre><code>define foobar() {
+    print &quot;Welcome to flavor country!&quot;;
+}
+</code></pre>
+
+<p>(which makes copying &amp; pasting easier). You can optionally mark the
+delimited block for Pandoc to syntax highlight it:</p>
+
+<pre><code class="language-python">import time
+# Quick, count to ten!
+for i in range(10):
+    # (but not *too* quick)
+    time.sleep(0.5)
+    print(i)
+</code></pre>
+
+<h3 id="an-h3-header">An h3 header</h3>
+
+<p>Now a nested list:</p>
+
+<ol>
+<li><p>First, get these ingredients:</p>
+
+<ul>
+<li>carrots</li>
+<li>celery</li>
+<li>lentils</li>
+</ul></li>
+
+<li><p>Boil some water.</p></li>
+
+<li><p>Dump everything in the pot and follow
+this algorithm:</p>
+
+<pre><code>find wooden spoon
+uncover pot
+stir
+cover pot
+balance wooden spoon precariously on pot handle
+wait 10 minutes
+goto first step (or shut off burner when done)
+</code></pre>
+
+<p>Do not bump wooden spoon or it will fall.</p></li>
+</ol>
+
+<p>Notice again how text always lines up on 4-space indents (including
+that last line which continues item 3 above).</p>
+
+<p>Here&rsquo;s a link to <a href="http://foo.bar">a website</a>, to a <a href="local-doc.html">local
+doc</a>, and to a <a href="#an-h2-header">section heading in the current
+doc</a>.</p>
+
+<p>Here&rsquo;s a footnote <sup class="footnote-ref" id="fnref:1"><a href="#fn:1">1</a></sup>.</p>
+
+<p>Tables can look like this:</p>
+
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Age</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Bob</td>
+<td>27</td>
+</tr>
+
+<tr>
+<td>Alice</td>
+<td>23</td>
+</tr>
+</tbody>
+</table>
+
+<p>Table 1: A load of shit</p>
+
+<p>A horizontal rule follows.</p>
+
+<hr />
+
+<p>Here&rsquo;s a definition list:</p>
+
+<p>apples
+  : Good for making applesauce.</p>
+
+<p>oranges
+  : Citrus!</p>
+
+<p>tomatoes
+  : There&rsquo;s no &ldquo;e&rdquo; in tomatoe.</p>
+
+<p>Again, text is indented 4 spaces. (Put a blank line between each
+term and  its definition to spread things out more.)</p>
+
+<p>Here&rsquo;s a &ldquo;line block&rdquo; (note how whitespace is honored):</p>
+
+<p>| Line one
+|   Line too
+| Line tree</p>
+
+<p>and images can be specified like so:</p>
+
+<p><img src="https://clgraphics.files.wordpress.com/2013/05/picture.gif" alt="example image" title="An exemplary image" /></p>
+
+<p>Inline math equation: $\omega = d\phi / dt$. Display
+math should get its own line like so:</p>
+
+<p>$$I = \int \rho R^{2} dV$$</p>
+
+<pre><code class="language-math">  x+y=z
+  $$I = \int \rho R^{2} dV$$
+</code></pre>
+
+<p>$$
+\sum_n (x)
+$$</p>
+
+<p>And note that you can backslash-escape any punctuation characters
+which you wish to be displayed literally, ex.: `foo`, *bar*, etc.</p>
+<div class="footnotes">
+
+<hr />
+
+<ol>
+<li id="fn:1">Some footnote text.
+ <a class="footnote-return" href="#fnref:1"><sup>[return]</sup></a></li>
+</ol>
+</div>
+</div>
+
+		<p class="meta">Posted on <span class="postdate">30. January 2020</span></p>
+	</article>
+
+			</div>
+
+			<footer id="footer">
+				<p class="copyright">
+					
+						Copyright 2020 Rey Farhan
+					
+				</p>
+			</footer>
+		</div>
+
+		
+	</body>
+</html>
