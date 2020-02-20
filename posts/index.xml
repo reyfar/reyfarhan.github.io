@@ -6,18 +6,19 @@
     <description>Recent content in Posts on Rey Farhan</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright 2020 Rey Farhan</copyright>
-    <lastBuildDate>Thu, 30 Jan 2020 13:20:57 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2020 13:20:57 +0100</lastBuildDate>
     
 	<atom:link href="http://reyfarhan.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello World</title>
+      <title>Starting a Blog in 2020</title>
       <link>http://reyfarhan.com/posts/001-first-post/</link>
-      <pubDate>Thu, 30 Jan 2020 13:20:57 +0100</pubDate>
+      <pubDate>Wed, 19 Feb 2020 13:20:57 +0100</pubDate>
       
       <guid>http://reyfarhan.com/posts/001-first-post/</guid>
-      <description>Thanks for visiting my site. More content coming soon.</description>
+      <description>I&amp;rsquo;m starting a blog in 2020. It sounds outdated, but that doesn&amp;rsquo;t concern me. It gives me a reason to practice long-form writing, with added pressure of publishing to the world. I haven&amp;rsquo;t really identified an audience, nor a plan for content, but I expect it to cover a range of things that interest me.
+Rachel Thomas of Fast.ai wrote an excellent article on the benefits of writing a blog, covering things you can gain from writing a blog, which I won&amp;rsquo;t rehash here.</description>
     </item>
     
   </channel>

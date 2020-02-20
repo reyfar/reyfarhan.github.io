@@ -6,29 +6,30 @@
     <description>Recent content on Rey Farhan</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright 2020 Rey Farhan</copyright>
-    <lastBuildDate>Thu, 30 Jan 2020 13:20:57 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2020 13:20:57 +0100</lastBuildDate>
     
 	<atom:link href="http://reyfarhan.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello World</title>
+      <title>Starting a Blog in 2020</title>
       <link>http://reyfarhan.com/posts/001-first-post/</link>
-      <pubDate>Thu, 30 Jan 2020 13:20:57 +0100</pubDate>
+      <pubDate>Wed, 19 Feb 2020 13:20:57 +0100</pubDate>
       
       <guid>http://reyfarhan.com/posts/001-first-post/</guid>
-      <description>Thanks for visiting my site. More content coming soon.</description>
+      <description>I&amp;rsquo;m starting a blog in 2020. It sounds outdated, but that doesn&amp;rsquo;t concern me. It gives me a reason to practice long-form writing, with added pressure of publishing to the world. I haven&amp;rsquo;t really identified an audience, nor a plan for content, but I expect it to cover a range of things that interest me.
+Rachel Thomas of Fast.ai wrote an excellent article on the benefits of writing a blog, covering things you can gain from writing a blog, which I won&amp;rsquo;t rehash here.</description>
     </item>
     
     <item>
-      <title>About Me</title>
+      <title>About</title>
       <link>http://reyfarhan.com/about/</link>
       <pubDate>Thu, 30 Jan 2020 12:50:04 +0100</pubDate>
       
       <guid>http://reyfarhan.com/about/</guid>
-      <description>I live in Berlin and work as a Data Science consultant, with experience ranging across industries and problem spaces. You can find further details on my LinkedIn profile.
-I&amp;rsquo;m also involved in these projects:
- A GIVEN B which is a collaborative initiative to bridge the gap between data science and designers to improve how we work together. NoNRG, which is an ambient music podcast series hosted on SoundCloud with sporadic releases.</description>
+      <description>I am a Data Science lead, based in Berlin, with experience across industries and problem spaces. You can find further details on my LinkedIn profile.
+I&amp;rsquo;m involved in these projects:
+ A GIVEN B, a collaborative initiative aiming to bridge the gap between data science and design folks to improve how we work together. Hot Concept Music, a new digital-only electronic and alternative music label. NoNRG, an ambient music mix series with sporadic activity.</description>
     </item>
     
   </channel>
