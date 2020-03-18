@@ -5,31 +5,29 @@
     <link>http://reyfarhan.com/</link>
     <description>Recent content on Rey Farhan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright 2020 Rey Farhan</copyright>
-    <lastBuildDate>Wed, 19 Feb 2020 13:20:57 +0100</lastBuildDate>
+    <copyright>© 2020 R. Farhan.&lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Rights Reserved.&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 15 Mar 2020 22:41:21 +0100</lastBuildDate>
     
 	<atom:link href="http://reyfarhan.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Starting a Blog in 2020</title>
-      <link>http://reyfarhan.com/posts/001-first-post/</link>
-      <pubDate>Wed, 19 Feb 2020 13:20:57 +0100</pubDate>
+      <title>hello, world</title>
+      <link>http://reyfarhan.com/posts/starting-a-blog2/</link>
+      <pubDate>Sun, 15 Mar 2020 22:41:21 +0100</pubDate>
       
-      <guid>http://reyfarhan.com/posts/001-first-post/</guid>
-      <description>My aim here is to become a better writer through practice. It sounds outdated in 2020, but a blog seems like the best option for getting me into a habit of regular writing. The format gives me the opportunity to create long-form writing, along with the added pressure of having to publish.
-Rachel Thomas of Fast.ai wrote an excellent article on the benefits of writing a blog, covering things you can gain from writing a blog, which I won&amp;rsquo;t rehash here.</description>
+      <guid>http://reyfarhan.com/posts/starting-a-blog2/</guid>
+      <description>At the end of last year I decided to start writing a blog. The plan was simple, consisting of nothing more than putting up a blog engine and starting pet projects that I could write about.</description>
     </item>
     
     <item>
-      <title>About</title>
+      <title>about</title>
       <link>http://reyfarhan.com/about/</link>
-      <pubDate>Thu, 30 Jan 2020 12:50:04 +0100</pubDate>
+      <pubDate>Sun, 01 Mar 2020 12:50:04 +0100</pubDate>
       
       <guid>http://reyfarhan.com/about/</guid>
-      <description>I am a Data Science lead, based in Berlin, with experience across industries and problem spaces. You can find further details on my LinkedIn profile.
-I&amp;rsquo;m involved in these projects:
- A GIVEN B, a collaborative initiative aiming to bridge the gap between data science and design folks to improve how we work together. Hot Concept Music, a new digital-only electronic and alternative music label. NoNRG, an ambient music mix series with sporadic activity.</description>
+      <description>This site acts as a journal for ideas and projects relating to my work and other interests.
+I am a data science lead with experience across industries and problem spaces.</description>
     </item>
     
   </channel>
