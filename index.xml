@@ -13,10 +13,10 @@
     
     <item>
       <title>Fine-tuning OpenAI&#39;s GPT-2 to generate fake DJ biographies</title>
-      <link>http://reyfarhan.com/posts/fake-dj-gpt2/</link>
+      <link>http://reyfarhan.com/posts/gpt2-dj/</link>
       <pubDate>Wed, 13 May 2020 12:20:57 +0100</pubDate>
       
-      <guid>http://reyfarhan.com/posts/fake-dj-gpt2/</guid>
+      <guid>http://reyfarhan.com/posts/gpt2-dj/</guid>
       <description>For fun, I wanted to see if I could fine-tune OpenAI&amp;rsquo;s GPT-2 model to generate DJ and electronic musician biographies.
 Although it&amp;rsquo;s only my opinion, it performed impressively. With only a modest amount of training, the model&amp;rsquo;s output gets close to the source material.</description>
     </item>
