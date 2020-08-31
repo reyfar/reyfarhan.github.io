@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://reyfarhan.com/posts/gpt2-dj/</loc>
-    <lastmod>2020-05-13T12:20:57+01:00</lastmod>
+    <loc>http://reyfarhan.com/posts/gpt2-finetuning-hf/</loc>
+    <lastmod>2020-08-30T09:08:08+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://reyfarhan.com/posts/</loc>
-    <lastmod>2020-05-13T12:20:57+01:00</lastmod>
+    <lastmod>2020-08-30T09:08:08+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://reyfarhan.com/</loc>
+    <lastmod>2020-08-30T09:08:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://reyfarhan.com/posts/gpt2-dj/</loc>
     <lastmod>2020-05-13T12:20:57+01:00</lastmod>
   </url>
   
