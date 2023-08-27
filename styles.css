@@ -1,0 +1,41 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #000;
+    color: #0F0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.console-output {
+    padding: 20px;
+    border: solid 1px #0F0;
+}
+
+a {
+    color: #0FF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.cursor {
+    display: inline-block;
+    width: 1px;
+    height: 20px;
+    background-color: #0F0;
+    animation: blink 1s infinite;
+}
+
+@keyframes blink {
+    0%, 49% {
+        background-color: #0F0;
+    }
+    50%, 100% {
+        background-color: transparent;
+    }
+}
